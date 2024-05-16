@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Remove Supervisor</title>
+    <link href="/style.css" rel="stylesheet">
+</head>
+<body>
+<div class="container">
+    <h1>Remove Supervisor</h1>
+    <form action="/removeSupervisor" method="post">
+        <label for="token">Token:</label><br>
+        <input type="text" id="token" name="token"><br><br>
+        <input type="submit" value="Remove Supervisor">
+    </form>
+    <div class="button-container">
+        <a href="javascript:history.go(-1);">Back</a>
+    </div>
+</div>
+</body>
+</html>

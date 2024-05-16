@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>All Testers</title>
+    <link href="/style.css" rel="stylesheet">
+</head>
+<body>
+<div class="container">
+    <h1>All Testers Data</h1>
+    <table>
+        <thead>
+        <tr>
+            <th>Username</th>
+            <th>Phone Number</th>
+        </tr>
+        </thead>
+        <tbody>
+        <th:block th:each="tester : ${allTester}">
+            <tr>
+                <td th:text="${tester.get('testerName')}"></td>
+                <td th:text="${tester.get('phone')}"></td>
+            </tr>
+        </th:block>
+        </tbody>
+    </table>
+
+    <div class="button-container">
+        <a href="javascript:history.go(-1);">Back</a>
+    </div>
+</div>
+</body>
+</html>
+
+
+
+

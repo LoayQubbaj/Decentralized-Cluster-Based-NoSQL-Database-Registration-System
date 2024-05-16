@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bde5de3d-7975-4f62-ba7d-316f6a5a4b17" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$USER_HOME$/.jdks/openjdk-22/lib/src.zip!/java.base/java/nio/file/NoSuchFileException.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2e5c7FKJpvDztabkVnap17ijMRu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;Docker.docker-compose.yml.node1: Compose Deployment.executor&quot;: &quot;Run&quot;,
+    &quot;Docker.docker-compose.yml.node2: Compose Deployment.executor&quot;: &quot;Run&quot;,
+    &quot;Docker.docker-compose.yml.node3: Compose Deployment.executor&quot;: &quot;Run&quot;,
+    &quot;Docker.docker-compose.yml: Compose Deployment.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP Request.test | #1.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP Request.test | #14.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP Request.test | #16.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP Request.test | #2.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP Request.test | #3.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP Request.test | #6.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP Request.test | #7.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.All in RegistrationSystem.executor&quot;: &quot;Run&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;Spring Boot.BootstrapApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.NodeVmApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.RegistrationSystemApplication.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/IntellijProjects/Decentralized-Cluster-NoSQL&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;run.configurations.included.in.services&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.tabs&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="MicronautRunConfigurationType" />
+        <option value="QuarkusRunConfigurationType" />
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.RegistrationSystemApplication">
+    <configuration name="test | #14" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/NodeVM/src/main/java/com/example/NodeVM/test/test.http" index="14" requestIdentifier="#14" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="test | #16" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/NodeVM/src/main/java/com/example/NodeVM/test/test.http" index="16" requestIdentifier="#16" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="test | #6" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/NodeVM/src/main/java/com/example/NodeVM/test/test.http" index="6" requestIdentifier="#6" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="test | #7" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/NodeVM/src/main/java/com/example/NodeVM/test/test.http" index="7" requestIdentifier="#7" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="BootstrapApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="Bootstrap" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.Bootstrap.BootstrapApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NodeVmApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="NodeVM" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.NodeVM.NodeVmApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RegistrationSystemApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="RegistrationSystem" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.RegistrationSystem.RegistrationSystemApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="docker-deploy" factoryName="docker-compose.yml" temporary="true">
+      <deployment type="docker-compose.yml">
+        <settings />
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="docker-compose.yml: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="envFilePath" value="" />
+          <option name="sourceFilePath" value="docker-compose.yml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Docker.docker-compose.yml: Compose Deployment" />
+      <item itemvalue="HTTP Request.test | #6" />
+      <item itemvalue="HTTP Request.test | #7" />
+      <item itemvalue="HTTP Request.test | #14" />
+      <item itemvalue="HTTP Request.test | #16" />
+      <item itemvalue="Spring Boot.RegistrationSystemApplication" />
+      <item itemvalue="Spring Boot.BootstrapApplication" />
+      <item itemvalue="Spring Boot.NodeVmApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Docker.docker-compose.yml: Compose Deployment" />
+        <item itemvalue="HTTP Request.test | #7" />
+        <item itemvalue="HTTP Request.test | #16" />
+        <item itemvalue="HTTP Request.test | #14" />
+        <item itemvalue="HTTP Request.test | #6" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-22-openjdk-22-4caba194b151-f504ca98" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bde5de3d-7975-4f62-ba7d-316f6a5a4b17" name="Changes" comment="" />
+      <created>1711197710393</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1711197710393</updated>
+      <workItem from="1711197711424" duration="872000" />
+      <workItem from="1711277877172" duration="1971000" />
+      <workItem from="1711282160732" duration="346000" />
+      <workItem from="1711282645130" duration="1274000" />
+      <workItem from="1711363356834" duration="7842000" />
+      <workItem from="1711373541526" duration="4000" />
+      <workItem from="1711374372002" duration="2028000" />
+      <workItem from="1711438797916" duration="4220000" />
+      <workItem from="1711454992118" duration="2134000" />
+      <workItem from="1711525460664" duration="9273000" />
+      <workItem from="1711701157037" duration="1988000" />
+      <workItem from="1711711305802" duration="7052000" />
+      <workItem from="1711791999119" duration="4671000" />
+      <workItem from="1711878832622" duration="4751000" />
+      <workItem from="1711964307943" duration="3304000" />
+      <workItem from="1712054841218" duration="5210000" />
+      <workItem from="1712116935973" duration="7856000" />
+      <workItem from="1712219089671" duration="9847000" />
+      <workItem from="1712314790196" duration="12174000" />
+      <workItem from="1712398080223" duration="11959000" />
+      <workItem from="1712491250174" duration="4077000" />
+      <workItem from="1712572737126" duration="5728000" />
+      <workItem from="1712587221351" duration="601000" />
+      <workItem from="1712587980851" duration="1208000" />
+      <workItem from="1712657635473" duration="1383000" />
+      <workItem from="1712660615577" duration="3834000" />
+      <workItem from="1712666882970" duration="863000" />
+      <workItem from="1712719029931" duration="778000" />
+      <workItem from="1712738503743" duration="2470000" />
+      <workItem from="1713190869076" duration="2503000" />
+      <workItem from="1713269089373" duration="2988000" />
+      <workItem from="1713343916291" duration="3594000" />
+      <workItem from="1713435014981" duration="11666000" />
+      <workItem from="1713512793352" duration="23264000" />
+      <workItem from="1713612329778" duration="8902000" />
+      <workItem from="1713638135754" duration="614000" />
+      <workItem from="1713638895164" duration="1291000" />
+      <workItem from="1713640286081" duration="496000" />
+      <workItem from="1713640880103" duration="4768000" />
+      <workItem from="1713647257074" duration="51000" />
+      <workItem from="1714451626744" duration="1394000" />
+      <workItem from="1714802654773" duration="15569000" />
+      <workItem from="1714847394844" duration="2332000" />
+      <workItem from="1715836446925" duration="48000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

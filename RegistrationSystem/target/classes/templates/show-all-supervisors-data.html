@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>All Supervisors</title>
+    <link href="/style.css" rel="stylesheet">
+</head>
+<body>
+<div class="container">
+    <h1>All Supervisors Data</h1>
+    <table>
+        <thead>
+        <tr>
+            <th>Username</th>
+            <th>Token</th>
+        </tr>
+        </thead>
+        <tbody>
+        <th:block th:each="supervisor : ${allSupervisors}">
+            <tr>
+                <td th:text="${supervisor.get('username')}"></td>
+                <td th:text="${supervisor.get('token')}"></td>
+            </tr>
+        </th:block>
+        </tbody>
+    </table>
+
+    <div class="button-container">
+        <a href="javascript:history.go(-1);">Back</a>
+    </div>
+</div>
+</body>
+</html>
+
+
+

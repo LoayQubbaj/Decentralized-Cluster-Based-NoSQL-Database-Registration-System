@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>add New Developer</title>
+    <link href="/style.css" rel="stylesheet">
+
+</head>
+<body>
+<div class="container">
+    <h1>Register Developer</h1>
+    <form action="saveDeveloperData" method="post">
+        <label for="developerName">Developer Name </label>
+        <input id="developerName" name="developerName" required type="text">
+        <br>
+
+        <label for="developerPhone">developer Phone Number </label>
+        <input id="developerPhone" name="developerPhone" required type="text">
+        <br>
+
+        <label for="developerAddress">developer Address </label>
+        <input id="developerAddress" name="developerAddress" required type="text">
+        <br>
+
+        <label for="departmentNumber"> Department number</label>
+        <input id="departmentNumber" name="departmentNumber" required type="number" min="1" max="3">
+        <br>
+
+        <br>
+        <button type="submit">add developer</button>
+    </form>
+
+    <div class="button-container">
+        <a href="javascript:history.go(-1);">Back</a>
+
+    </div>
+
+</div>
+</body>
+</html>

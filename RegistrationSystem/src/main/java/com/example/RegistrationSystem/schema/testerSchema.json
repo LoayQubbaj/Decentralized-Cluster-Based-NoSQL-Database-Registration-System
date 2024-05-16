@@ -1,0 +1,16 @@
+{
+  "type": "object",
+  "properties": {
+    "testerName": {
+      "type": "string"
+    },
+    "phone": {
+      "type": "string"
+    }
+  },
+  "required": [
+    "testerName",
+    "phone"
+  ],
+  "additionalProperties": false
+}
